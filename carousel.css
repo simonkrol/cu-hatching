@@ -32,7 +32,9 @@ body {
 .navbar-wrapper .navbar .container {
   width: auto;
 }
-
+#logo {
+  padding: 1px 10px;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -67,10 +69,18 @@ body {
   min-width: 100%;
   height: 500px;
 }
-
+#widthset
+{
+  padding-top: 3cm;
+}
 #addedspace
 {
   margin-top: 60px;
+}
+
+#addspace
+{
+  margin-top: 50px;
 }
 /* MARKETING CONTENT
 -------------------------------------------------- */
